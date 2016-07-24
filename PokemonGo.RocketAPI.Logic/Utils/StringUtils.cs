@@ -100,7 +100,7 @@ namespace PokemonGo.RocketAPI.Logic.Utils
                     GerName = "Sandan";
                     break;
                 case PokemonId.Sandlash:
-                    GerName = "Sandlash";
+                    GerName = "Sandamer";
                     break;
                 case PokemonId.NidoranFemale:
                     GerName = "Weibliches Nidoran";
